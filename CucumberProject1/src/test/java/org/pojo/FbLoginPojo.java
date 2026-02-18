@@ -36,8 +36,4 @@ public class FbLoginPojo extends BaseClass{
 	public WebElement getLoginBtn() {
 		return loginBtn;
 	}
-	
-	
-	
-
 }
