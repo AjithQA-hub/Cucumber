@@ -12,7 +12,7 @@ glue="org.StepDefinition",
 dryRun=false, 
 monochrome = true,
 strict=true,
-snippets = SnippetType.CAMELCASE,
+snippets = SnippetType.UNDERSCORE,
 tags ="@Sanity",
 plugin={"html:Report",
 		"junit:Report\\JunitReport.xml",
@@ -20,3 +20,4 @@ plugin={"html:Report",
 public class TestRunner {
 
 }
+
