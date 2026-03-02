@@ -19,10 +19,11 @@ And To pass the secondname in secondname text box
 #Two dimensional map data
 And To pass mobileno or email in email text box
 |password1|password2|password3|
-|ajith!2233|ajith123422@#|9#003486|
-|ajithnathiya@234|900348765@|bbasjsx|
-|jhcuisdhi|jsjsadhshsd|jsfhu#45dshh|
-|kasdjashds|jsadhuisdh|hdsa6$dga|
+|ajith!123|ajith!1234|ajith!12345|
+|ajith@123|ajith@1234|ajith@12345|
+|ajith#123|ajith#1234|ajith#12345|
+|ajith$123|ajith$1234|ajith$12345|
 
 And To create new password using new password text box
+
 Then To close the chrome browser
