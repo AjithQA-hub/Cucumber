@@ -12,7 +12,7 @@ And To pass the firstname in firstname text box
 #Key				value
 |firstname1|Samuel|
 |firstname2|janani|
-|firstname3|Nathiya|
+|firstname3|Ramya|
 |firstname4|Ajith|
 
 And To pass the secondname in secondname text box
