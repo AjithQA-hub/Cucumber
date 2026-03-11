@@ -43,8 +43,4 @@ public class FbLogin2 extends BaseClass {
 	public void user_has_to_close_the_browser() {
 		closeEntireBrowser();
 	}
-
-
-
-
 }
