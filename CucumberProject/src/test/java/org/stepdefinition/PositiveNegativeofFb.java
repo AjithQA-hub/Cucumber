@@ -2,7 +2,6 @@ package org.stepdefinition;
 
 import org.base.BaseClass;
 import org.pojo.FbLoginPojo;
-
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -44,6 +43,4 @@ public class PositiveNegativeofFb extends BaseClass {
 	public void user_has_to_close_the_browser() {
 		closeEntireBrowser();
 	}
-
-
 }
