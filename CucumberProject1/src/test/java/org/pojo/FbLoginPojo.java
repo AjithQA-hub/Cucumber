@@ -13,7 +13,6 @@ public class FbLoginPojo extends BaseClass{
 	}
 	
 	//2.private web elements
-	//webElement email= driver.findElement(By.is("email"));
 	@FindBy(id="email")
 	private WebElement email;
 	
