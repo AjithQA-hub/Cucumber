@@ -23,15 +23,12 @@ public class FbLoginPojo extends BaseClass{
 	private WebElement loginBtn;
 	
 	//3.getters to access webElements outside the class
-
 	public WebElement getEmail() {
 		return email;
 	}
-
 	public WebElement getPassword() {
 		return password;
 	}
-
 	public WebElement getLoginBtn() {
 		return loginBtn;
 	}
