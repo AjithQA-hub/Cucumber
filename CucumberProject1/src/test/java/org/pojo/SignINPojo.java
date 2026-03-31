@@ -28,21 +28,16 @@ public class SignINPojo extends BaseClass{
 	public WebElement getCreateNewAcc() {
 		return createNewAcc;
 	}
-
 	public WebElement getFirstNametxtBox() {
 		return FirstNametxtBox;
 	}
-
 	public WebElement getSecondNametxtBox() {
 		return SecondNametxtBox;
 	}
-
 	public WebElement getMobileorEmailtxtBox() {
 		return MobileorEmailtxtBox;
 	}
-
 	public WebElement getPasswordtxtBox() {
 		return PasswordtxtBox;
 	}
-
 }
