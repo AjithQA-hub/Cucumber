@@ -1,7 +1,6 @@
 package org.StepDefinition;
 
 import org.base.BaseClass;
-
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
@@ -33,5 +32,4 @@ public class HooksClass extends BaseClass {
 		closeEntireBrowser();
 		System.out.println("close the Browser");
 	}
-
 }
