@@ -11,7 +11,6 @@ public class FbLoginPojo extends BaseClass{
 	public FbLoginPojo(){
 		PageFactory.initElements(driver, this);
 	}
-	
 	//2.private web elements
 	//webElement email= driver.findElement(By.is("email"));
 	@FindBy(id="email")
@@ -37,4 +36,3 @@ public class FbLoginPojo extends BaseClass{
 		return loginBtn;
 	}
 }
-
